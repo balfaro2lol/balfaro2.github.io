@@ -58,6 +58,7 @@ footer li {display: inline;
 				line-height: 2em;
 	}
 #sidebar img {position: absolute;
+				width: 70%;
 				bottom: 0;
 				justify-content: center;
 	}
